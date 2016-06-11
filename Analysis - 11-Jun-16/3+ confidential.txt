@@ -1,0 +1,45 @@
+Citrix:
+UI - Angular,Javascript, HTML/CSS
+OO in Javascript
+Jquery
+REST Webservices using JSON
+Advanced UI features
+Understand dataStructure
+Profiling and optimizing HTML/CSS
+CSS frameworks
+Js frameworks/tools
+AJAX
+
+HP:
+Core Java, J2EE, Webservices,Spring
+Hibernate
+JSP, Servlets, Struts, Javascript
+iBatis,Oracle,PL/SQL
+Linux/Unix Scripting
+Jquery and AJAX
+Jenkins CI
+Weblogic, Apache Tomcat
+webDesign Patterns:MVC,SOAP,REST,JSON
+
+Cisco:
+Java,Javascript,Agile,RestFul APIs
+Open source protocols
+
+Intuit:
+Java, Datastructures, OOPS, design Patterns,
+spring Framework, REST Services,
+ORM Mapping, Hibernate,
+SQL,UI(HTML5, javascript, CSS,Jquery, Angular)
+Agile
+
+Amazon:
+Java,Spring, Hibernate
+
+Oracle:
+J2EE experience
+SQL, CVS,Bug tracking, CI,Messaging System,
+No SQL DB
+Spring, Hibernate, JMS
+Webservices using REST,
+caching testing
+how push notifications of mobile device work

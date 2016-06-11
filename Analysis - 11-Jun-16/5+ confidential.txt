@@ -1,0 +1,40 @@
+VMWare:
+4+ years experience
+Node JS with MVC
+Javascript, HTML, CSS, Jquery,
+Java, Spring, Rest API,Hibernate 
+
+Zynga:
+java, data structures and algorithms
+
+Paypal:
+5+ years experience
+java/J2EE, SQL,
+
+bloomberg:
+4+ years experience in java,
+3+ years experience in SQL, RDBMS,
+Git, Agile
+NoSQL, Node js
+Swift,Javascript,Angular JS,
+CSS frameworks - bootstrap,
+Jenkins, search engines like elastic and solr
+git, github,REST API, how web semantics translate into REST API,
+data structures and algorithms
+postman
+
+Yet to set following links:
+https://jobs.ebayinc.com/jobs/2423684-52000/Bangalore-Karnataka-Senior-Software-Engineer?lang=en-US
+https://jobs.ebayinc.com/jobs/2404165-52000/Bangalore-Karnataka-MTS-1-Software-Engineer?lang=en-US
+https://jobs.ebayinc.com/jobs/2410675-52000/Bangalore-Karnataka-Sr-Software-Engineer-I24?lang=en-US
+https://jobs.ebayinc.com/jobs/2410604-52000/Bangalore-Karnataka-MTS-1-Software-Engineer?lang=en-US
+http://www.monster.com/jobs/c-ebay.aspx
+
+brocade communications
+linkedin
+apple
+facebook
+twitter
+google
+juniper networks
+
